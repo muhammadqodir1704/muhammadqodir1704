@@ -1,16 +1,23 @@
 ## Hi there 👋
-
-<!--
-**muhammadqodir1704/muhammadqodir1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <p>Welcome to my GitHub profile! 🚀</p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+  
+  <p>
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/your-profile" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+  </p>
+  
+  <p>
+    💻 I'm currently working on [your project]  
+    🌱 I’m currently learning **React**  
+    💬 Ask me about **Web Development**  
+  </p>
+  
+  <p>⭐️ Check out my pinned repositories below! 👇</p>
+</div>

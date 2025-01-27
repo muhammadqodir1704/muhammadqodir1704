@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
   
   <p>
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <a href="www.linkedin.com/in/mukhammadkodir-valijonov" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/your-profile" target="_blank">
@@ -14,8 +14,8 @@
   </p>
   
   <p>
-    💻 I'm currently working on [your project]  
-    🌱 I’m currently learning **React**  
+    💻 I'm currently working on Etadoor 
+    🌱 I’m currently learning NodeJs
     💬 Ask me about **Web Development**  
   </p>
   

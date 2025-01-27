@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hi there 👋</h1>
   <p>Welcome to my GitHub profile! 🚀</p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
-  
-  <p>
+    <p>
     <a href="www.linkedin.com/in/mukhammadkodir-valijonov" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>

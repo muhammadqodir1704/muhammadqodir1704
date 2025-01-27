@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <h1>Hi there 👋</h1>
   <p>Welcome to my GitHub profile! 🚀</p>

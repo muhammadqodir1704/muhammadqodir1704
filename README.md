@@ -26,7 +26,6 @@
 
 ```java
 class FullStackDeveloper {
-  // Shaxsiy ma'lumotlar
   name = 'MukhammadKodir';
   role = 'Web Developer';
   location = 'Uzbekistan';

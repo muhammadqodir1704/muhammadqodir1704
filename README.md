@@ -46,7 +46,8 @@ class FullStackDeveloper {
   ];
 
   getMessage() {
-    return 'Frontenddan backendgacha uzluksiz tajribalar yaratish! 💻';
+    return 'Frontenddan backendgacha uzluksiz tajribalar yig'ish
+! 💻';
   }
 }
 

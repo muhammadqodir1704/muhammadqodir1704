@@ -22,40 +22,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake.svg" />
 </picture>
 
-## About Me 🚀
-
-```java
-class FullStackDeveloper {
-  name = 'MukhammadKodir';
-  role = 'Web Developer';
-  location = 'Uzbekistan';
-
-  frontend = [
-    'TypeScript',
-    'JavaScript',
-    'BootStrap',
-    'React.js',
-    'HTML5/CSS3',
-    'Material UI',
-    'ShadCn',
-    'Tailwind CSS'
-  ];
-
-  database = [
-    'MongoDB'
-  ];
-
-  getMessage() {
-    return 'Frontenddan backendgacha uzluksiz tajribalar yig'ish
-! 💻';
-  }
-}
-
-const developer = new FullStackDeveloper();
-console.log(developer.getMessage());
-
-```
-
 ## 💻 Tech Stack
 
 ### Frontend Development

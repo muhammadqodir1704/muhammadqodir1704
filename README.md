@@ -22,7 +22,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake.svg" />
 </picture>
 
-## 💻 Tech Stack.
+### 💻 Tech Stack.
 
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

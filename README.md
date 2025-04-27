@@ -25,7 +25,7 @@
 - 👯 Contributing to Open Source Projects
 - 📚 Sharing Knowledge through Technical Blogs
 
----
+----
 
 <div align="center">
   <i>⚡ "The best way to predict the future is to implement it." – David Heinemeier Hansson</i>
